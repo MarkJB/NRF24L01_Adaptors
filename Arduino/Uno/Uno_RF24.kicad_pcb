@@ -19,7 +19,7 @@
     (rev 1)
     (comment 1 "Copyright Mark Benson 2016")
     (comment 2 "License: Creative Commons Attribution Non Commercial (CCNCBY 4.0)")
-    (comment 3 github.com/markjb/url)
+    (comment 3 github.com/markjb/NRF24L01_Adaptors)
   )
 
   (layers
@@ -908,7 +908,7 @@
   (gr_line (start 175.26 58.928) (end 175.26 60.96) (angle 90) (layer F.SilkS) (width 0.2))
   (gr_circle (center 174.752 60.452) (end 174.752 60.706) (layer F.SilkS) (width 0.2))
   (gr_circle (center 174.752 59.436) (end 174.752 59.69) (layer F.SilkS) (width 0.2))
-  (gr_text github.com/markjb/url? (at 159.512 83.82) (layer F.SilkS)
+  (gr_text github.com/markjb/NRF24L01_Adaptors (at 165.608 83.82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "©Mark Benson 2016 License CCNCBY" (at 164.592 82.042) (layer F.SilkS)

@@ -3,7 +3,7 @@
   (general
     (links 15)
     (no_connects 0)
-    (area 148.260999 51.486999 217.245001 105.231001)
+    (area 142.9671 46.6524 217.471601 105.4536)
     (thickness 1.6)
     (drawings 57)
     (tracks 57)
@@ -13,6 +13,15 @@
   )
 
   (page A4)
+  (title_block
+    (title "Arduino Uno/Leonardo NRF24L01+ Shield")
+    (date 2016-08-15)
+    (rev 1)
+    (comment 1 "Copyright Mark Benson 2016")
+    (comment 2 "License: Creative Commons Attribution Non Commercial (CCNCBY 4.0)")
+    (comment 3 github.com/markjb/url)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -37,7 +46,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (user_trace_width 0.75)
     (user_trace_width 1)

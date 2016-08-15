@@ -36,13 +36,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Arduino Uno/Leonardo NRF24L01+ Sheild"
+Date "2016-08-15"
+Rev "1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Copyright Mark Benson 2016"
+Comment2 "License: Creative Commons Attribution Non Commercial (CCNCBY 4.0)"
+Comment3 "github.com/markjb/url"
 Comment4 ""
 $EndDescr
 $Comp

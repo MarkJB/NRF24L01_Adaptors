@@ -28,18 +28,19 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:rasberry_pi_minimal_rf24_board-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Raspberry Pi NRF24L01+ adaptor"
+Date "2016-08-15"
+Rev "1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Copyright Mark Benson 2016"
+Comment2 "License: Creative Commons Attribution Non Commercial 4.0 (CCNCBY 4.0)"
+Comment3 "github.com/markjb/url"
 Comment4 ""
 $EndDescr
 $Comp

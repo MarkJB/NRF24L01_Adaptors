@@ -40,7 +40,7 @@ Rev "1"
 Comp ""
 Comment1 "Copyright Mark Benson 2016"
 Comment2 "License: Creative Commons Attribution Non Commercial 4.0 (CCNCBY 4.0)"
-Comment3 "github.com/markjb/url"
+Comment3 "github.com/markjb/NRF24L01_Adaptors"
 Comment4 ""
 $EndDescr
 $Comp
