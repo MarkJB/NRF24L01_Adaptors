@@ -36,11 +36,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Arduino Nano NRF24L01+ Adaptor"
-Date ""
+Date "2018-03-30"
 Rev "1"
 Comp ""
-Comment1 "Copyright Mark Benson 2016"
-Comment2 "License: Creative Commons Attribution Non Commercial 4.0 (CCNCBY 4.0)"
+Comment1 "Copyright Mark Benson 2018"
+Comment2 "License: Creative Commons Attribution ShareAlike 4.0 (CC BY-SA 4.0)"
 Comment3 "github.com/markjb/NRF24L01_Adaptors"
 Comment4 ""
 $EndDescr
